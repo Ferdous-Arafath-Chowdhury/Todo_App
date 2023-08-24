@@ -1,0 +1,50 @@
+.container
+{
+   
+    width: 30%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: black;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+    
+    
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+  margin-top: 2px;
+  margin-bottom: 16px;
+  resize: vertical; 
+  display: grid;
+  place-items: center;
+} 
+.btn
+{
+   color: red;
+   background-color: green;
+  
+  
+    
+
+} 
+
+.btn:hover
+{
+  background-color: black;
+  color: white;
+}
+
+h4
+{
+  color: white;
+  text-align: center;
+}

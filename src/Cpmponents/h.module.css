@@ -1,0 +1,21 @@
+.container
+{
+       width: 50%;
+       background-color: #666362;
+       /* background-color: red; */
+       /* flex-direction: column; */
+       justify-content: center;
+       margin: auto;
+          
+} 
+
+p 
+{
+    font-size: larger;
+} 
+
+h3
+{
+    color: yellow;
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+.container
+{
+    padding: 3px;
+    border: 2px solid red; 
+    padding-bottom: 12px; 
+    background-color:  black;
+    margin-bottom: 10px;
+    color: darkorange;
+     overflow: auto;
+     height: 100%;
+     width: 100%;
+  
+    
+} 
+
+.pp 
+{
+   
+    width: 100%;
+    height: 50%; 
+    color: red;
+} 
+/* .head 
+{
+  
+    font-size:xx-large;
+    color: green;
+} */
+
+.flex
+{    
+    display: flex;
+   justify-content: right;
+   
+}
+
+
